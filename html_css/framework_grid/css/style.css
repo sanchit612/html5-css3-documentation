@@ -2,6 +2,10 @@
   background: red;
 }
 
+nav{
+  background: orange;
+}
+
 nav li{
   display : inline;
 }
@@ -12,4 +16,13 @@ aside{
 
 .primary{
   background: #e3e3e3;
+}
+
+header{
+  background : yellow;
+}
+
+.main{
+  margin : 30px 0px;
+
 }
