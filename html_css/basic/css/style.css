@@ -1,0 +1,36 @@
+a{
+  color: green;
+  text-decoration: none;
+}
+
+h1{
+  font-family: cursive;
+}
+
+h2{
+  font-family: arial, sans-serif;
+  margin-left: 50px;
+}
+
+div{
+  font-family: arial, sans-serif;
+  text-align: center;
+  margin : auto;
+  background: red;
+}
+
+#pick{
+  color : red;
+}
+
+.pocket{
+  color : blue;
+}
+
+#sect li:nth-child(1){
+  color : yellow;
+}
+
+ol:first-of-type li:nth-child(1){
+  color : yellow;
+}

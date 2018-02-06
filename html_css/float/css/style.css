@@ -1,0 +1,27 @@
+.wrap{
+  width : 600px;
+  margin: auto;
+  background: #e8b7d6;
+  overflow : hidden;
+}
+
+.header{
+  background: #b7e8df;
+  width : 600px;
+}
+
+.content{
+  background: #dae8b7;
+  float : left;
+  width : 450px;
+}
+
+aside{
+  background: #e8dcb7;
+}
+
+footer{
+  background: #c1b7e8;
+  width : 600px;
+  clear : both;
+}

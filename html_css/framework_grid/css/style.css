@@ -1,0 +1,15 @@
+.container_12{
+  background: red;
+}
+
+nav li{
+  display : inline;
+}
+
+aside{
+  background : green;
+}
+
+.primary{
+  background: #e3e3e3;
+}
