@@ -1,0 +1,22 @@
+{
+  "punjab": {
+    "BPL": 123456,
+    "MPL": 45454,
+    "cities": {}
+  },
+  "haryana": {
+    "BPL": 123456,
+    "MPL": 45454,
+    "cities": [
+      {
+        "name": "Gurgaon",
+        "pinCode": 122001
+      }
+    ]
+  },
+  "delhi": {
+    "BPL": 123456,
+    "MPL": 45454,
+    "cities": []
+  }
+}
